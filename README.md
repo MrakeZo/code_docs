@@ -20,9 +20,7 @@
 
 Ниже пример кода из нашего приложения:
 
-'''css
-.selector {
-  font-family: "Awesome", Arial, sans-serif;
-  color: red;
+.selector {<br/>
+  font-family: "Awesome", Arial, sans-serif;<br/>
+  color: red;<br/>
 }
-'''
